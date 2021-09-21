@@ -28,3 +28,6 @@ Just a developer that likes making random projects because nothing to do
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmansaico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Wakatime Stats
+[![FatManSaico's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fatmansaico?layout=compact?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
